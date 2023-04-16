@@ -1,3 +1,8 @@
+This Java-Maven Project is created to Post Messages to a Messaging Queue activing as a Producer and the reading messages from the same as a Consumer.
+
+
+
+
 Pre-Requisites for the Code to Run on Windows:
 1. Java
 2. Maven
